@@ -1,0 +1,42 @@
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+E:\универ\компьютерная графика\лабы\лаб 2\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+e:\универ\компьютерная графика\лабы\лаб 2\build test\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll

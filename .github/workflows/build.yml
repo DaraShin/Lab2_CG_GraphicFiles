@@ -1,0 +1,13 @@
+name: Build
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: windows
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build project
+        run: dotnet build
